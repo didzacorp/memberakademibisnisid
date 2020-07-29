@@ -1,0 +1,137 @@
+html{width:100%;}
+@media print {
+body { font-size: 10pt }
+}
+@media screen {
+body { font-size: 13px }
+}
+@media screen, print {
+body { line-height: 1.2 }
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+	width:98%;
+}
+.header_repeat {
+	display: table-header-group;
+	background-color:red;
+	}
+.clear{
+	clear:both;
+}
+.h_left{
+	float:left;
+	width:70%;
+}
+.h_left1{
+	float:right;
+	width:42%;
+}
+.h_left2{
+	float:right;
+	width:58%;
+}
+.h_leftpack{
+	float:right;
+	width:37%;
+}
+.h_leftpack2{
+	float:right;
+	width:27%;
+}
+.h_leftpack3{
+	float:right;
+	width:36%;
+}
+.h_leftpack4{
+	float:right;
+	width:54%;
+}
+.h_leftpack5{
+	float:right;
+	width:46%;
+}
+.h_leftpack6{
+	float:right;
+	width:43%;
+}
+.h_leftpack7{
+	float:right;
+	width:57%;
+}
+.h_right{
+	float:right;
+	width:30%;
+}
+hr.tebel{
+	width:100%;
+	height: 5px;
+	background: #000;		
+}
+hr.tebel2{
+	width:100%;
+	height: 2px;
+	background: #000;		
+}
+.title{
+	position: absolute;
+	background: #fff;
+	right: 38%;
+	font-size: 14pt;
+}
+
+legend{
+	font-size: 11pt;
+}
+.vendor{
+	float: left;
+	width: 42.8%;
+}
+.ship{
+	float: left;
+	width: 49.3%;
+}
+
+table.detail{
+	border: 1px solid black;
+	border-collapse:collapse;
+	font-size: 7pt;
+}
+
+table.detail tr th{
+	border: 1px solid black;
+}
+table.detail tr td{
+	border: 1px solid black;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+.ttd{
+	float: right;
+	width: 220px;
+}
+.numb{
+	text-align: right;
+}
+.text_kanan{
+	text-align: right;
+}
+.text_kiri{
+	text-align: kiri;
+}
+.text_tengah{
+	text-align: center;
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  /*
+  background-color: #efefef;
+  text-align: center;
+  */
+}

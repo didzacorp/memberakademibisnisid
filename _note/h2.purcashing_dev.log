@@ -1,0 +1,7 @@
+table :
+1. h3.trPurchaseOrder
+2. h3.trPurchaseOrderDetail
+
+foreign table :
+1. dataMaster.msType
+2. dataMaster.msSupplier

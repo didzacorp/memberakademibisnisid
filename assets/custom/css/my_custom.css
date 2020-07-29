@@ -1,0 +1,36 @@
+.filteredKey {
+    color: #c7254e;
+    background-color: #f9f2f4;
+}
+.ic_truckx:before {
+   content:url(../../images/icon/small_box/truck.png);
+   max-width: 70%;
+}
+.ic_unloadingx:before {
+   content:url(../../images/icon/small_box/unloading.png);
+   max-width: 70%;
+}
+.ic_containerx:before {
+   content:url(../../images/icon/small_box/container.png);
+   max-width: 70%;
+}
+.ic_kapal:before {
+   content:url(../../images/icon/small_box/kapal.png);
+   max-width: 70%;
+}
+.ic_warehousex:before {
+   content:url(../../images/icon/small_box/warehouse.png);
+   max-width: 70%;
+}
+.ic_distribusix:before {
+   content:url(../../images/icon/small_box/distribusi.png);
+   max-width: 70%;
+}
+.ic_motorx:before {
+   content:url(../../images/icon/small_box/motor.png);
+   max-width: 70%;
+}
+.ic_salesx:before {
+   content:url(../../images/icon/small_box/sales.png);
+   max-width: 70%;
+}
